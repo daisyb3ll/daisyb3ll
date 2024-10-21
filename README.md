@@ -1,7 +1,8 @@
 ## Wassup  
 
 I'm Daisy. B)
-About me:
+
+- About me:
 I'm at Chapman University for a Software Engineering Major and a Peace and Justice Studies Minor. 
 I'm a so-cal native, love to skate, draw, design, sew, watch anime, and code. 
 
