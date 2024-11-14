@@ -2,10 +2,10 @@
   <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@500&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
   <style>
     body {
-      font-family: '', sans-serif;
+      font-family: '', Source-Code-Pro;
     }
     h2 {
-      font-family: 'Roboto', sans-serif;
+      font-family: 'Source-Code-Pro', Source-Code-Pro;
       color: #333;
     }
   </style>
