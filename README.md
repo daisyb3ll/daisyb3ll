@@ -8,7 +8,13 @@ Hi, I'm Daisy! B)
 - I enjoy work in frontend, UX/UI, and Web Design and Development.
     I'm currently making my way through @Codedex Web Dev Courses as well as UX/UI coursework through Google's Coursera resources (I am in my training arc.)
 - I'm a creative- like making things pretty!
-    Outside of programming I design for fun, anything from game assets, UI, and doodles for fun. 
+    Outside of programming I design for fun, anything from game assets, UI, and doodles for fun.
+
+## Learning In Progress
+ - Database
+ - Programming Languages
+
+    
 
 ## Codedex #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@daisyenhtml/30-nites-of-code)  
