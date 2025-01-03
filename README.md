@@ -11,11 +11,3 @@ Hi, I'm Daisy! B)
     Outside of programming I design for fun, anything from game assets, UI, and doodles for fun.
 
 ## Learning In Progress
- - Database
- - Programming Languages
-
-    
-
-## Codedex #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@daisyenhtml/30-nites-of-code)  
-  ![@daisyenhtml #30NitesOfCode](https://www.codedex.io/api/petStatus?user=daisyenhtml)
