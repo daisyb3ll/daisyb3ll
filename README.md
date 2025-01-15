@@ -11,9 +11,10 @@ Hi, I'm Daisy! B)
     Outside of programming I design for fun, anything from game assets, UI, and doodles for fun.
 
 ## Learning In Progress
-[x]working on prework for @Codepath
-[ ]finishing up first portfolio site development
+- [x] working on prework for @Codepath
+- [x] finishing up first portfolio site development
 
 ## future projects
-- starting work on version 2 of portfolio/personal blog site ( react, js, & javascript )
-- pokedex app ( for funsies)
+- [ ] starting work on version 2 of portfolio/personal blog site ( react, js, & javascript )
+- [ ] pokedex app ( for funsies)
+
