@@ -10,11 +10,11 @@ Hi, I'm Daisy! B)
 - I'm a creative- like making things pretty!
     Outside of programming I design for fun, anything from game assets, UI, and doodles for fun.
 
-## Learning In Progress
+## Learning In Progress 🧑‍🏭
 - [x] working on prework for @Codepath
 - [x] finishing up first portfolio site development
 
-## future projects
+## Future projects 📝 
 - [ ] starting work on version 2 of portfolio/personal blog site ( react, js, & javascript )
 - [ ] pokedex app ( for funsies)
 
