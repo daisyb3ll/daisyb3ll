@@ -12,6 +12,7 @@ Hi, I'm Daisy! B)
 
 ## Learning In Progress 🧑‍🏭
 - [x] working on prework for @Codepath
+    - got into both sections i signed up for 😎
 - [x] finishing up first portfolio site development
 
 ## Future projects 📝 
