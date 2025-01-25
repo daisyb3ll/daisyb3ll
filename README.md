@@ -20,3 +20,4 @@ Hi, I'm Daisy! B)
 - [ ] starting work on version 2 of portfolio/personal blog site ( react, js, & javascript )
 - [ ] pokedex app ( for funsies)
 
+to learn more about me and my work check out my [site!](https://daisyb3ll.github.io/daisyb3ll.io/)
