@@ -11,10 +11,7 @@ Hi, I'm Daisy! B)
     Outside of programming I design for fun, anything from game assets, UI, and doodles for fun.
 
 ## Learning In Progress 🧑‍🏭
-- [x] working on prework for @Codepath
-  *got into both sections i signed up for 😎*
-- [x] finishing up first portfolio site development
-      - [x] finishing up creative cv
+[![roadmap.sh](https://roadmap.sh/card/tall/679807341ee9a7b2d0751efa?variant=dark)](https://roadmap.sh)
 
 ## Future projects 📝 
 - [ ] starting work on version 2 of portfolio/personal blog site ( react, js, & javascript )
