@@ -10,9 +10,6 @@ Hi, I'm Daisy! B)
 - I'm a creative- like making things pretty!
     Outside of programming I design for fun, anything from game assets, UI, and doodles for fun.
 
-## Learning In Progress 🧑‍🏭
-[![roadmap.sh](https://roadmap.sh/card/tall/679807341ee9a7b2d0751efa?variant=dark)](https://roadmap.sh)
-
 ## Future projects 📝 
 - [ ] starting work on version 2 of portfolio/personal blog site ( react, js, & javascript )
 - [ ] pokedex app ( for funsies)
