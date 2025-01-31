@@ -13,7 +13,5 @@ Hi, I'm Daisy! B)
 ## Future projects 📝 
 - [ ] starting work on version 2 of portfolio/personal blog site ( react, js, & javascript )
 - [ ] pokedex app ( for funsies)
-      
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 to learn more about me and my work check out my [site!](https://daisyb3ll.github.io/daisyb3ll.io/)
