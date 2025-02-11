@@ -11,7 +11,8 @@ Hi, I'm Daisy! B)
     Outside of programming I design for fun, anything from game assets, UI, and doodles for fun.
 
 ## Future projects 📝 
-- [x ] starting work on version 2 of portfolio/personal blog site ( react, js, & javascript ) -> daisyland.design [*coming soon!*]
+- [x] starting work on version 2 of portfolio/personal blog site ( react, js, & javascript )
+      daisyland.design [*coming soon!*]
 - [ ] pokedex app ( for funsies)
 
 to learn more about me and my work check out my [site!](https://daisyb3ll.github.io/daisyb3ll.io/)
