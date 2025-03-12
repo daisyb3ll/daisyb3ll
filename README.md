@@ -16,4 +16,4 @@ Hi, I'm Daisy! B)
 - [x]working on LAMP,  SE capstone project with @sarahyoon and @rosullivan2
 - [ ] pokedex app ( for funsies)
 
-to learn more about me and my work check out my [site!](https://daisyb3ll.github.io/daisyb3ll.io/)
+to learn more about me and my work check out my [site!](https://daisyb3ll.github.io/daisyland/)
