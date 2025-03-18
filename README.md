@@ -13,6 +13,6 @@ Hi, I'm Daisy! B)
 ## Future projects 📝 
 - [x] working on version 2 of portfolio/personal blog site <break>
       daisyland.design [*coming soon!*]
-- [x]working on LAMP,  SE capstone project with @sarahyoon and @rosullivan2
+- [x] working on LAMP,  SE capstone project with @sarahyoon and @rosullivan2
 
 to learn more about me and my work check out my [site!](https://daisyb3ll.github.io/daisyland/)
