@@ -13,5 +13,5 @@ Hi, I'm Daisy! B)
 
 ## current projects 📝 
 - [x] working on version v 2.5 of [portfolio](https://daisyb3ll.github.io/daisyland/) to add case studies!
-- [x] working on LAMP,  SE capstone project with [@sarah-yoon](https://daisyb3ll.github.io/daisyland/](https://github.com/sarah-yoon)
+- [x] working on LAMP,  SE capstone project with [Sarah Yoon](https://github.com/sarah-yoon)
 - [ ] starting super secret project  
