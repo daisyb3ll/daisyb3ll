@@ -12,3 +12,4 @@ UX/UI Researcher, Software Developer, Designer, & Habitual Doodler ∘┈┈✿.
 
 ## current projects 📝 
 - [x] working on my [portfolio](https://daisyb3ll.github.io/daisyland/)
+- [ ] restarting LAMP redesign 
