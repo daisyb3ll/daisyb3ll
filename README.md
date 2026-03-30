@@ -10,6 +10,5 @@ UX/UI Researcher, Software Developer, Designer, & Habitual Doodler ∘┈┈✿.
     Outside of programming I design for fun! I've worked in game dev with spritework and animations, concept art, & graphic design! 
 
 ## current projects 📝 
-- [x] working on my [portfolio](https://daisyb3ll.github.io/daisyland/)
-- [ ] restarting LAMP redesign
-- [ ] figma makeathon in progress!!!
+- [x] working on my [portfolio](https://daisyfernandezdesigns.framer.website/)
+- [x] restarting LAMP redesign w my bff4lyfer4eva :3
