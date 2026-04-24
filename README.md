@@ -11,4 +11,4 @@ UX/UI Researcher, Software Developer, Designer, & Habitual Doodler ∘┈┈✿.
 
 ## current projects 📝 
 - [x] working on my [portfolio](https://daisyfernandezdesigns.framer.website/)
-- [x] restarting LAMP redesign w my bff 4 lyfe @sarah-yoon
+- [x] restarting LAMP redesign w my bff 4 lyfe [sarah-yoon](https://github.com/sarah-yoon/)
